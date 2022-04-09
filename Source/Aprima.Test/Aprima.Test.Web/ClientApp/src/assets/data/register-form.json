@@ -1,0 +1,10 @@
+{
+  "controls": [
+    {
+      "id": "username",
+      "name": "userName",
+      "label": "User name",
+      "placeHolder": "Username" 
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+input.form-control.ng-pristine.ng-valid.ng-touched {
+  border-color: forestgreen;
+  color: forestgreen;
+}
+
+input.form-control.ng-dirty.ng-valid.ng-touched {
+  border-color: forestgreen;
+  color: forestgreen;
+}
+
+input.form-control.ng-pristine.ng-invalid.ng-touched {
+  border-color: red;
+  color: red;
+}
+
+input.form-control.ng-dirty.ng-invalid.ng-touched {
+  border-color: red;
+  color: red;
+}
+
+input.form-control.ng-dirty.ng-invalid.ng-untouched {
+  border-color: red;
+  color: red;
+}
+
+.fa-check {
+  color: #009900;
+}
+
+.fa-times {
+  color: #ff1a1a;
+}
+
+.set-width {
+  width: 250px;
+  justify-content: center;
+}
